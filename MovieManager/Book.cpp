@@ -3,7 +3,6 @@
 #include "Book.h"
 #include "Library.h"
 
-
 using namespace std;
     
 Book::Book (): title(""), author (""), year (0), available(true){}
