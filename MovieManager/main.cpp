@@ -5,7 +5,7 @@
 using namespace std;
 
 int main () {
-    LibraryRental store;
+    Library store;
 
     store.addBook(Book("Harry Potter", "JK Rowling", "2001"));
     store.addBook(Book("Divergent", "Veronica Roth", "2011"));
