@@ -19,3 +19,4 @@ class Library {
         string getName() const;
         
 }
+#endif

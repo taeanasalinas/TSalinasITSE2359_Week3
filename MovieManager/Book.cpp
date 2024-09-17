@@ -2,7 +2,7 @@
 #include <iostream>
 #include "Book.h"
 #include "Library.h"
-
+#include "Member.h"
 
 using namespace std;
     
